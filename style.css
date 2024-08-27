@@ -1,0 +1,25 @@
+body {
+    
+    background-color:rgb(228, 189, 141);
+    background-size: 50%;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(41, 39, 39);
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url(https://www.fontget.com/font/ringbearer/) format('woff');
+    font-weight: normal;
+    font-size: normal;
+}
+
+
